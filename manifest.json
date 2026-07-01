@@ -1,0 +1,21 @@
+{
+  "name": "Shirley in the Kitchen",
+  "short_name": "Shirley's Kitchen",
+  "description": "Authentic Italian and American comfort food recipes from Chef Shirley Jarrett",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8B4513",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
